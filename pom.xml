@@ -14,7 +14,7 @@
 	<name>pizza-order-api</name>
 	<description>Rest api for ordering pizzas</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>16.0.1</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
@@ -67,6 +67,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 				<version>2.6.7</version>
 			</plugin>
+
 		</plugins>
 	</build>
 
