@@ -14,7 +14,7 @@
 	<name>pizza-order-api</name>
 	<description>Rest api for ordering pizzas</description>
 	<properties>
-		<java.version>8</java.version>
+		<java.version>11</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
